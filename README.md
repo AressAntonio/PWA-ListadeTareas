@@ -3,7 +3,7 @@ Este es un proyecto inicial para crear aplicaciones web con webpack.
 ### Notas:
 Recuerde reconstruir los modulos de Node JS
 ....
-nmp install
+npm install
 ....
 Y para reconstruir la carpeta dist
 ....
@@ -13,3 +13,7 @@ Para el ambiente de desarrollo
 ....
 npm run build:dev
 ....
+
+Visita el sitio: https://aressantonio.github.io/PWA-ListadeTareas/
+
+![image](https://user-images.githubusercontent.com/99376135/206040847-d306462e-53e6-4679-b737-c459ea0fcc1c.png)
